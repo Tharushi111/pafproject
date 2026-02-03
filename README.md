@@ -29,14 +29,8 @@ All files and branches were created as part of **lab exercises guided by an inst
 
 ---
 
-## 🌿 Branch Structure
-- `main` – Base branch used for practice
-- `feature/*` – Feature branches created for learning branching and PRs
-
----
-
 ## 📂 Files
-The files in this repository (HTML files, test files, etc.) are **sample/demo files only**, created to practice Git operations.
+The files in this repository (HTML files) are **sample/demo files only**, created to practice Git operations.
 
 ---
 
